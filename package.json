@@ -1,0 +1,17 @@
+{
+  "name": "setuplayoutdocx",
+  "version": "1.0.0",
+  "description": "Tuỳ biến một số thông tin nhỏ được tạo sẵn ở thẻ tag trong file docx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docx": "^8.5.0",
+    "docx-templates": "^4.13.0",
+    "docxtemplater": "^3.48.0",
+    "pizzip": "^3.1.7"
+  }
+}
